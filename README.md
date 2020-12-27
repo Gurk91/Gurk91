@@ -9,7 +9,6 @@
 
 ## What I do
 <img align="right" alt="Gurkaran's top language" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurk91&layout=compact&show_icons=true">
-<br>
 <img align="right" alt="Gurkaran's github stat" width="50%" src="https://github-readme-stats.vercel.app/api?username=Gurk91&show_icons=true&count_private=true">
 <p>
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
