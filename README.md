@@ -13,8 +13,8 @@
 <img align="right" alt="Gurkaran's top language" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurk91&layout=compact&show_icons=true">
 <img align="right" alt="Gurkaran's github stat" width="50%" src="https://github-readme-stats.vercel.app/api?username=Gurk91&show_icons=true&count_private=true">
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
+  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
   <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
   
