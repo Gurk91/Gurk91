@@ -5,7 +5,9 @@
 - 📚 Junior at **UC Berkeley** studying 💻 Computer Science and 💰 Economics
 - 🔭 Working on optimizing the backend for **Fibonia** and adding new features to the app
 - 🌱 Currently learning **Go**
-- ✨ Like to build robust, efficient, and reliable applications
+- 📜 Interested in primarily Edtech and Fintech
+- ✨ Exploring the applications of blockchain in making day-to-day electronic payments easier and faster
+- 🤙 Alo into 📷 photography and 🚲 biking
 
 ## What I do
 <img align="right" alt="Gurkaran's top language" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurk91&layout=compact&show_icons=true">
