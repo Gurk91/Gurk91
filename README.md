@@ -6,8 +6,6 @@
 - 🔭 Working on optimizing the backend for **Fibonia** and adding new features to the app
 - 🌱 Currently learning **Go**
 - ✨ Like to build robust, efficient, and reliable applications
-- 📫 How to reach me: gurkarn.goindi@berkeley.edu
-- 📲 Connect with me on LinkedIn: https://www.linkedin.com/in/gurkaran-singh-goindi/
 
 ## What I do
 <img align="right" alt="Gurkaran's top language" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurk91&layout=compact&show_icons=true">
@@ -32,3 +30,14 @@
   <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
+
+## Reach Me At
+<p>
+  <a href="https://www.linkedin.com/in/gurkaran-singh-goindi/" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:gurkarn.goindi@berkeley.edu">
+  <img alt="Email" src="https://img.shields.io/badge/Email-D14836?&style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
+</p>
+
