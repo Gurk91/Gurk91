@@ -3,7 +3,7 @@
 #### Here's a bit more about me:
 
 - 📚 Junior at **UC Berkeley** studying 💻 Computer Science and 💰 Economics
-- 🔭 Currently working on optimizing the backend for **Fibonia** and adding new features to the app
+- 🔭 Working on optimizing the backend for **Fibonia** and adding new features to the app
 - 🌱 Currently learning **Go**
 - ✨ Like to build robust, efficient, and reliable applications
 - 📫 How to reach me: gurkarn.goindi@berkeley.edu
