@@ -5,8 +5,7 @@
 - 📚  Junior at **UC Berkeley** studying 💻 Computer Science and 💰 Economics
 - 🔭  Working on optimizing the backend for **Fibonia** and adding new features to the app
 - 🌱  Currently learning **Go**
-- 📜  Interested in primarily Edtech and Fintech
-- ✨  Exploring the applications of blockchain in making day-to-day electronic payments easier and faster
+- 📱  Passionate and looking for opportunities in iOS Dev
 - 🤙  Also into 📷 photography and 🚲 biking
 
 ## What I do
