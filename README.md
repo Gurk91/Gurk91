@@ -4,8 +4,8 @@
 
 - 📚  Senior at **UC Berkeley** studying 💻 Computer Science
 - 🔖  TA for CS61A @ UC Berkeley
-- 📱  Currently working as an iOS Engineering Intern @ Umba
-- 📰  Incoming Software Engineering Intern @ The New York Times for Fall '21
+- 📰  Currently Software Engineering Intern @ The New York Times for Fall '21
+- 📱  Former iOS Engineering Intern @ Umba
 - 📣  Looking for opportunities in New Grad opportunities in SWE for Spring 2022
 - 🤙  Also into 📷 photography and 🚲 biking
 
