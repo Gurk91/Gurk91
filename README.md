@@ -1,5 +1,5 @@
-### Hi there! 👋
-## You've arrived at Gurkaran's Github page!
+## Hi there! 👋
+### You've arrived at Gurkaran's Github page!
 #### Here's a bit more about me:
 
 - 📚  Senior at **UC Berkeley** studying 💻 Computer Science
