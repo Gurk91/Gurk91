@@ -2,7 +2,7 @@
 ### You've arrived at Gurkaran's Github page!
 #### Here's a bit more about me:
 
-##### Incoming Software Engineer at <img src="logos@2x/color/visa@2x.png" width="110px" height="64px"><img src="logos@2x/dark/visa-dark@2x.png" width="110px" height="64px">
+##### Incoming Software Engineer at <img src="https://raw.githubusercontent.com/mpay24/payment-logos/master/logos%402x/color/visa%402x.png" width="55px" height="32px">
 
 - 📚  Senior at **UC Berkeley** studying 💻 Computer Science
 - 🔖  TA for CS61A @ UC Berkeley
