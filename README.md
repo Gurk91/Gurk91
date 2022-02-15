@@ -4,7 +4,7 @@
 
 
 ##### Incoming Software Engineer at 
-<img src="https://raw.githubusercontent.com/mpay24/payment-logos/master/logos%402x/color/visa%402x.png" width="55px" height="32px">
+<img src="Rounded Corners/PNG/medium/visa@2x.png" width="55px" height="32px">
 
 
 - 📚  Senior at **UC Berkeley** studying 💻 Computer Science
