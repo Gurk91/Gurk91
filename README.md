@@ -2,6 +2,8 @@
 ### You've arrived at Gurkaran's Github page!
 #### Here's a bit more about me:
 
+##### Incoming Software Engineer at <img src="logos@2x/color/visa@2x.png" width="110px" height="64px"><img src="logos@2x/dark/visa-dark@2x.png" width="110px" height="64px">
+
 - 📚  Senior at **UC Berkeley** studying 💻 Computer Science
 - 🔖  TA for CS61A @ UC Berkeley
 - 📰  Incoming Software Engineer @ Visa Inc. in Foster City, CA
