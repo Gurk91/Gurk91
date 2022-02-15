@@ -2,13 +2,13 @@
 ### You've arrived at Gurkaran's Github page!
 #### Here's a bit more about me:
 
-##### Incoming Software Engineer at <img src="https://raw.githubusercontent.com/mpay24/payment-logos/master/logos%402x/color/visa%402x.png" width="55px" height="32px">
+<img src="https://raw.githubusercontent.com/mpay24/payment-logos/master/logos%402x/color/visa%402x.png" width="55px" height="32px">
+##### Incoming Software Engineer at 
 
 - 📚  Senior at **UC Berkeley** studying 💻 Computer Science
 - 🔖  TA for CS61A @ UC Berkeley
-- 📰  Incoming Software Engineer @ Visa Inc. in Foster City, CA
-- 📱  Former iOS Engineering Intern @ The New York Times for Fall '21
-- 🤙  Also into 📷 photography and 🚲 biking
+- 📍  Berkeley, CA
+- 🤙  Also into 🎮 gaming and 🚲 biking
 
 ## What I do
 <img align="right" alt="Gurkaran's top language" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurk91&layout=compact&show_icons=true">
@@ -42,4 +42,7 @@
   <img alt="Email" src="https://img.shields.io/badge/Email-D14836?&style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
 </p>
+
+## Also Add Me At:
+
 
