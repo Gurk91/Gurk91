@@ -2,13 +2,12 @@
 ### You've arrived at Gurkaran's Github page
 
 
-#### Incoming Software Engineer at 
+#### Software Engineer at 
 <img src="https://raw.githubusercontent.com/slaterjohn/payment-logos/master/Rounded%20Corners/PNG/medium/visa%402x.png" width="55px" height="32px">
 
 
-- 📚  Senior @ **UC Berkeley** studying 💻 Computer Science
-- 🔖  TA for CS61A @ UC Berkeley
-- 📍  Berkeley, CA
+- 📚  **UC Berkeley** 💻 CS '22
+- 📍  San Mateo, CA
 - 🤙  Also into 🎮 gaming and 🚲 biking
 
 ## What I do
